@@ -1,6 +1,6 @@
 # 🌟 Selamat Datang di Profil Saya!  
 
-![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFybXB1dXlxeDV1dGZteHR3MmZrNzFoYjFmcGU2Z2V0djdiMjFjeCZlcD12MV9i/giphy.gif)  
 
 Halo! Saya **[Nama Anda]**, seorang penggemar teknologi yang suka menciptakan solusi kreatif dan inovatif. Saya terbuka untuk kolaborasi, belajar bersama, dan berbagi ilmu dengan komunitas!  
 
